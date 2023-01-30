@@ -106,6 +106,9 @@ function [map,num,typ,scheme] = brewermap(N,scheme) %#ok<*ISMAT>
 %
 % See also CUBEHELIX LBMAP PARULA LINES RGBPLOT COLORMAP COLORBAR PLOT PLOT3 AXES SET
 
+
+%dummy comment
+
 %% Input Wrangling %%
 %
 persistent scm
