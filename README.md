@@ -32,7 +32,7 @@ SoRoForge leverages **shell finite elements** to accelerate simulations, reducin
 
 ## Fabrication
 
-![image3](assets/finger.png)  
+![image3](assets/materialtesting.png)  
 
 Soft robots are often fabricated through casting, gluing, or overmolding — effective methods for mass production but limiting for rapid prototyping and geometric flexibility.  
 SoRoForge supports **direct export of fabrication-ready STL files**, the standard format for most 3D printers.
