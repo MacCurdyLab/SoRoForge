@@ -39,6 +39,8 @@ SoRoForge supports **direct export of fabrication-ready STL files**, the standar
 
 It includes pre-tuned printing profiles enabling fabrication of complex soft actuator geometries capable of bending, grasping, and walking. The system also provides extensive test data for characterizing a wide range of commercially available soft 3D printing filaments.
 
+The Ogden material model is used to capture hyperelastic behavior of these filamnents. If you'd like to fit your own material model to our extensie uniaxial tensile data (8 replicates on each of 14 filamnets, to failure), it can be downloaded in raw form or averaged and decimated to 20 datapoints in the "TPU Data" folder.
+
 ---
 
 ## Characterization
